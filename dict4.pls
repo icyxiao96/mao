@@ -76,4 +76,10 @@
     <grapheme>Chen Pao</grapheme>
     <alias>chen bao</alias>
   </lexeme>
+  
+  
+  <lexeme>
+    <grapheme>Tai Chi-tao</grapheme>
+    <alias>dai ji tao</alias>
+  </lexeme>
 </lexicon>
