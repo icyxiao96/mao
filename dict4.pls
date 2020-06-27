@@ -81,5 +81,11 @@
   <lexeme>
     <grapheme>Tai Chi-tao</grapheme>
     <alias>dai ji tao</alias>
+  </lexeme>  
+  <lexeme>
+    <grapheme>Chang Kuo-tao</grapheme>
+    <alias>john guo tao</alias>
   </lexeme>
+  
+  
 </lexicon>
