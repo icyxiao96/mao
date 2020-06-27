@@ -35,7 +35,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Anhwei</grapheme>
-    <alias>aan hooey</alias>
+    <alias>aan huei</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
@@ -51,6 +51,6 @@
   </lexeme>
   <lexeme>
     <grapheme>Tsiaotso</grapheme>
-    <alias>jiao Tsooa</alias>
+    <alias>jiao zuo</alias>
   </lexeme>
 </lexicon>
