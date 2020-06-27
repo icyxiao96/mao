@@ -15,6 +15,6 @@
   </lexeme>
   <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
-    <alias>mao zah dong</alias>
+    <alias>mao zah don</alias>
   </lexeme>
 </lexicon>
