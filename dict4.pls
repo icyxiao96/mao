@@ -15,10 +15,6 @@
   </lexeme>
   <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
-    <alias>maozadong</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>maozadong</grapheme>
-    <phoneme>mɑutsahtuŋ</phoneme>
+    <alias>mao zah dong</alias>
   </lexeme>
 </lexicon>
