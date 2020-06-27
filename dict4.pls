@@ -9,8 +9,4 @@
     <grapheme>BTW</grapheme>
     <alias> By the way </alias>
   </lexeme>
-  <lexeme>
-    <grapheme> Benigni </grapheme>
-    <phoneme> b eh 1 - n iy - n y iy </phoneme>
-  </lexeme>
 </lexicon>
