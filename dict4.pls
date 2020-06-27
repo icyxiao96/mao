@@ -35,7 +35,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Anhwei</grapheme>
-    <alias>aan whoy</alias>
+    <alias>aan hoy</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
