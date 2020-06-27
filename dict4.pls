@@ -72,4 +72,8 @@
     <alias>chen doo shyow</alias>
   </lexeme>
   
+  <lexeme>
+    <grapheme>Chen Pao</grapheme>
+    <alias>chen bao</alias>
+  </lexeme>
 </lexicon>
