@@ -27,15 +27,15 @@
   </lexeme>
   <lexeme>
     <grapheme>Honan</grapheme>
-    <alias>hao naan</alias>
+    <alias>ho naan</alias>
   </lexeme>
   <lexeme>
     <grapheme>Szechuan</grapheme>
-    <alias>sih chuaan</alias>
+    <alias>se chuaan</alias>
   </lexeme>
   <lexeme>
     <grapheme>Anhwei</grapheme>
-    <alias>aan hwei</alias>
+    <alias>aan hooei</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
