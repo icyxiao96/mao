@@ -31,11 +31,11 @@
   </lexeme>
   <lexeme>
     <grapheme>Szechuan</grapheme>
-    <alias>se chuaan</alias>
+    <alias>say chuaan</alias>
   </lexeme>
   <lexeme>
     <grapheme>Anhwei</grapheme>
-    <alias>aan huei</alias>
+    <alias>aan hooei</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
