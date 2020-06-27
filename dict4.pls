@@ -19,6 +19,6 @@
   </lexeme>
   <lexeme>
     <grapheme>maozedong</grapheme>
-    <phoneme>mɑutsetuŋ</phoneme>
+    <phoneme>tse</phoneme>
   </lexeme>
 </lexicon>
