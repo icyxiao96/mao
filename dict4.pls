@@ -17,8 +17,4 @@
     <grapheme>Mao Tse-tung</grapheme>
     <alias>maozedong</alias>
   </lexeme>
-  <lexeme>
-    <grapheme>maozedong</grapheme>
-    <phoneme>tse</phoneme>
-  </lexeme>
 </lexicon>
