@@ -11,7 +11,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Shantung</grapheme>
-    <phoneme>'ʃæntʌŋ</phoneme>
+    <phoneme>sh aa n - d ao ng</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
@@ -19,46 +19,10 @@
   </lexeme>
   <lexeme>
     <grapheme>Hunan</grapheme>
-    <phoneme>'hu:'næn</phoneme>
+    <phoneme>h uw - n ae n</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Hupeh</grapheme>
-    <alias>hoo bei</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Honan</grapheme>
-    <phoneme>'ho:'næn</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Szechuan</grapheme>
-    <phoneme>sə:tʃuaŋ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Anhwei</grapheme>
-    <phoneme>'ɑ:n'hwe</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>comprador</grapheme>
-    <phoneme>ˌkɑmprəˈdɔr</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Kuomintang</grapheme>
-    <phoneme>kuːəʊmɪnˈtaŋ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Chao</grapheme>
-    <phoneme>tʃaːʊ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>tou</grapheme>
-    <alias>dough</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>sheng</grapheme>
-    <phoneme>ʃɜːŋ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Tsiaotso</grapheme>
-    <alias>jiao Tso</alias>
+    <alias>h uw - b ey</alias>
   </lexeme>
 </lexicon>
