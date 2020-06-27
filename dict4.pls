@@ -9,4 +9,8 @@
     <grapheme>BTW</grapheme>
     <alias> By the way </alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Mao Tse-tung</grapheme>
+    <alias>mao za dong</alias>
+  </lexeme>
 </lexicon>
