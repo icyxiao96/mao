@@ -69,7 +69,7 @@
   
   <lexeme>
     <grapheme>Chen Tu-hsiu</grapheme>
-    <alias>chen doo hsio</alias>
+    <alias>chen doo hsiu</alias>
   </lexeme>
   
   <lexeme>
