@@ -35,15 +35,15 @@
   </lexeme>
   <lexeme>
     <grapheme>Anhwei</grapheme>
-    <phoneme>aan hwei</phoneme>
+    <alias>aan hwei</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
-    <phoneme>guo min done</phoneme>
+    <alias>guo min done</alias>
   </lexeme>
   <lexeme>
     <grapheme>Chao</grapheme>
-    <phoneme>chaao</phoneme>
+    <alias>chaao</alias>
   </lexeme>
   <lexeme>
     <grapheme>tou</grapheme>
