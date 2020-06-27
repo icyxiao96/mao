@@ -58,4 +58,18 @@
     <alias>goy joe</alias>
   </lexeme>
   
+  <lexeme>
+    <grapheme>Kailan</grapheme>
+    <alias>kai lan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Shanghai</grapheme>
+    <alias>Shawn hai</alias>
+  </lexeme>
+  
+  <lexeme>
+    <grapheme>Chen Tu-hsiu</grapheme>
+    <alias>chen doo shyow</alias>
+  </lexeme>
+  
 </lexicon>
