@@ -13,4 +13,12 @@
     <grapheme>Mao Tse-tung</grapheme>
     <alias>maozadong</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Mao Tse-tung</grapheme>
+    <alias>maozadong</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>maozadong</grapheme>
+    <phoneme>mɑutsɣtuŋ</phoneme>
+  </lexeme>
 </lexicon>
