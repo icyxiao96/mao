@@ -11,10 +11,6 @@
   </lexeme>
   <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
-    <alias>maozadong</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Mao Tse-tung</grapheme>
     <alias>mao zah don</alias>
   </lexeme>
 </lexicon>
