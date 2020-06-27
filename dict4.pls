@@ -52,5 +52,10 @@
   <lexeme>
     <grapheme>Tsiaotso</grapheme>
     <alias>jiao zo</alias>
+  </lexeme>  
+  <lexeme>
+    <grapheme>Kweichow</grapheme>
+    <alias>goy joe</alias>
   </lexeme>
+  
 </lexicon>
