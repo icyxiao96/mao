@@ -6,6 +6,10 @@
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="sapi" xml:lang="en-US">
   <lexeme>
+    <grapheme>BTW</grapheme>
+    <alias> By the way </alias>
+  </lexeme>
+  <lexeme>
     <grapheme> Benigni </grapheme>
     <phoneme> b eh 1 - n iy - n y iy </phoneme>
   </lexeme>
