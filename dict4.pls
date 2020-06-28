@@ -87,5 +87,9 @@
     <alias>john guo tao</alias>
   </lexeme>
   
+  <lexeme>
+    <grapheme>Chao Heng-ti </grapheme>
+    <alias>zhao hung tea</alias>
+  </lexeme>
   
 </lexicon>
