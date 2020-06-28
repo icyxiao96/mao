@@ -91,5 +91,28 @@
     <grapheme>Chao Heng-ti </grapheme>
     <alias>zhao hung tea</alias>
   </lexeme>
-  
+    <lexeme>
+    <grapheme>Yen Jung-chiu </grapheme>
+    <alias>yan rong chio</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hsiangtan</grapheme>
+    <alias>shiang tan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yang Chih-tse  </grapheme>
+    <alias>Yang zhey zaa</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ninghsiang </grapheme>
+    <alias>ning saang</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kiukiang </grapheme>
+    <alias>kyo jiang</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chiang Kai-shek </grapheme>
+    <alias>jiang gai sheg</alias>
+  </lexeme>
 </lexicon>
