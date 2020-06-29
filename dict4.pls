@@ -151,4 +151,9 @@
     <grapheme>Anhua</grapheme>
     <alias> aan hua</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Yuehchow</grapheme>
+    <alias>youeeh joe</alias>
+  </lexeme>
+  
 </lexicon>
