@@ -155,5 +155,9 @@
     <grapheme>Yuehchow</grapheme>
     <alias>youeeh joe</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Wu Pei-fu</grapheme>
+    <alias>woo pei foo</alias>
+  </lexeme>
   
 </lexicon>
