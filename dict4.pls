@@ -109,10 +109,42 @@
   </lexeme>
   <lexeme>
     <grapheme>Kiukiang </grapheme>
-    <alias>kyo jiang</alias>
+    <alias>jio jiang</alias>
   </lexeme>
   <lexeme>
     <grapheme>Chiang Kai-shek </grapheme>
     <alias>jiang gai sheg</alias>
+  </lexeme>  
+  <lexeme>
+    <grapheme>Hengshan </grapheme>
+    <alias>Hung shaan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>hsianghsiang </grapheme>
+    <alias>shiang shiang</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hsiangtan </grapheme>
+    <alias>shiang taan</alias>
+  </lexeme>
+   <lexeme>
+    <grapheme>Liling </grapheme>
+    <alias>lee ling</alias>
+  </lexeme>
+   <lexeme>
+    <grapheme>Ninghsiang</grapheme>
+    <alias>ning shiang</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Pingkiang</grapheme>
+    <alias>ping jiang</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hsiangyin</grapheme>
+    <alias>shiang yin</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chenhsien</grapheme>
+    <alias> Chen shiaan</alias>
   </lexeme>
 </lexicon>
