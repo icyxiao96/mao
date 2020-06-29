@@ -88,11 +88,11 @@
   </lexeme>
   
   <lexeme>
-    <grapheme>Chao Heng-ti </grapheme>
+    <grapheme>Chao Heng-ti</grapheme>
     <alias>zhao hung tea</alias>
   </lexeme>
     <lexeme>
-    <grapheme>Yen Jung-chiu </grapheme>
+    <grapheme>Yen Jung-chiu</grapheme>
     <alias>yan rong chio</alias>
   </lexeme>
   <lexeme>
@@ -100,7 +100,7 @@
     <alias>shiang tan</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Yang Chih-tse  </grapheme>
+    <grapheme>Yang Chih-tse</grapheme>
     <alias>Yang zhey zaa</alias>
   </lexeme>
   <lexeme>
@@ -112,23 +112,23 @@
     <alias>jio jiang</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Chiang Kai-shek </grapheme>
+    <grapheme>Chiang Kai-shek</grapheme>
     <alias>jiang gai sheg</alias>
   </lexeme>  
   <lexeme>
-    <grapheme>Hengshan </grapheme>
+    <grapheme>Hengshan</grapheme>
     <alias>Hung shaan</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hsianghsiang </grapheme>
+    <grapheme>hsianghsiang</grapheme>
     <alias>shiang shiang</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Hsiangtan </grapheme>
+    <grapheme>Hsiangtan</grapheme>
     <alias>shiang taan</alias>
   </lexeme>
    <lexeme>
-    <grapheme>Liling </grapheme>
+    <grapheme>Liling</grapheme>
     <alias>lee ling</alias>
   </lexeme>
    <lexeme>
