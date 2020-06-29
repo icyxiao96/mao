@@ -149,6 +149,6 @@
   </lexeme>
   <lexeme>
     <grapheme>Anhua</grapheme>
-    <alias> an hua</alias>
+    <alias> aan hua</alias>
   </lexeme>
 </lexicon>
