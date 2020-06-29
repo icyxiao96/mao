@@ -120,7 +120,7 @@
     <alias>Hung shaan</alias>
   </lexeme>
   <lexeme>
-    <grapheme>hsianghsiang</grapheme>
+    <grapheme>Hsianghsiang</grapheme>
     <alias>shiang shiang</alias>
   </lexeme>
   <lexeme>
@@ -146,5 +146,9 @@
   <lexeme>
     <grapheme>Chenhsien</grapheme>
     <alias> Chen shiaan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Anhua</grapheme>
+    <alias> an hua</alias>
   </lexeme>
 </lexicon>
