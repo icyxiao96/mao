@@ -145,7 +145,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Chenhsien</grapheme>
-    <alias> Chen shiaan</alias>
+    <alias>chen see-an</alias>
   </lexeme>
   <lexeme>
     <grapheme>Anhua</grapheme>
