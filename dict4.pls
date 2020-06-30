@@ -170,5 +170,9 @@
   <lexeme>
     <grapheme>Ninghsiang</grapheme>
     <alias>ning shiaang</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Yang Chih-tse</grapheme>
+    <alias>Yang-zher-zaa</alias>
   </lexeme>
 </lexicon>
