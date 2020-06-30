@@ -167,7 +167,8 @@
     <grapheme>Kwangtung</grapheme>
     <alias>guang dohn</alias>
   </lexeme>
-  
-  
-  
+  <lexeme>
+    <grapheme>Ninghsiang</grapheme>
+    <alias>ning shiaang</alias>
+  </lexeme>
 </lexicon>
