@@ -175,4 +175,8 @@
     <grapheme>Yang Chih-tse</grapheme>
     <alias>Yang-zher-zaa</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>per cent</grapheme>
+    <alias>percent</alias>
+  </lexeme>
 </lexicon>
