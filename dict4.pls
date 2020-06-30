@@ -100,10 +100,6 @@
     <alias>see-ong taan</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Yang Chih-tse</grapheme>
-    <alias>Yang zhey zaa</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>Ninghsiang </grapheme>
     <alias>ning see-ong</alias>
   </lexeme>
