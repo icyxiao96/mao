@@ -97,7 +97,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Hsiangtan</grapheme>
-    <alias>shiang tan</alias>
+    <alias>see-ong taan</alias>
   </lexeme>
   <lexeme>
     <grapheme>Yang Chih-tse</grapheme>
@@ -105,7 +105,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Ninghsiang </grapheme>
-    <alias>ning saang</alias>
+    <alias>ning see-ong</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kiukiang </grapheme>
@@ -121,11 +121,11 @@
   </lexeme>
   <lexeme>
     <grapheme>Hsianghsiang</grapheme>
-    <alias>shiang shiang</alias>
+    <alias>see-ong see-ong</alias>
   </lexeme>
   <lexeme>
     <grapheme>Hsiangtan</grapheme>
-    <alias>shiang taan</alias>
+    <alias>see-ong taan</alias>
   </lexeme>
    <lexeme>
     <grapheme>Liling</grapheme>
@@ -133,7 +133,7 @@
   </lexeme>
    <lexeme>
     <grapheme>Ninghsiang</grapheme>
-    <alias>ning shiang</alias>
+    <alias>ning see-ong</alias>
   </lexeme>
   <lexeme>
     <grapheme>Pingkiang</grapheme>
@@ -141,7 +141,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Hsiangyin</grapheme>
-    <alias>shiang yin</alias>
+    <alias>see-ong yin</alias>
   </lexeme>
   <lexeme>
     <grapheme>Chenhsien</grapheme>
