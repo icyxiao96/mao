@@ -168,7 +168,7 @@
     <alias>ning shiaang</alias>
   </lexeme> 
   <lexeme>
-    <grapheme>Yang Chih-tse</gra pheme>
+    <grapheme>Yang Chih-tse</grapheme>
     <alias>Yang-zher-zaa</alias>
   </lexeme>
   <lexeme>
