@@ -159,5 +159,15 @@
     <grapheme>Wu Pei-fu</grapheme>
     <alias>woo pei foo</alias>
   </lexeme>
+   <lexeme>
+    <grapheme>Kiangsi</grapheme>
+    <alias>jaan see</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kwangtung</grapheme>
+    <alias>guang dohn</alias>
+  </lexeme>
+  
+  
   
 </lexicon>
