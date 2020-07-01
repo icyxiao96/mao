@@ -157,7 +157,7 @@
   </lexeme>
    <lexeme>
     <grapheme>Kiangsi</grapheme>
-    <alias>jaan see</alias>
+    <alias>jiang see</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kwangtung</grapheme>
@@ -175,4 +175,42 @@
     <grapheme>per cent</grapheme>
     <alias>percent</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Yuan Tsu-ming</grapheme>
+    <alias>Yuan zu ming</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Peng Chih-fan</grapheme>
+    <alias>Pong zher faan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chou Tien-chueh</grapheme>
+    <alias>joe tian jou-eh</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chou Tien-chueh</grapheme>
+    <alias>joe tian jou-eh</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yiyang</grapheme>
+    <alias>Yi young</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Huajung</grapheme>
+    <alias>hua rong</alias>
+  </lexeme>
+   <lexeme>
+    <grapheme>Chengpu</grapheme>
+    <alias>Chong poo</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yuhsien</grapheme>
+    <alias>yowe seeian</alias>
+  </lexeme>
+   <lexeme>
+    <grapheme>Paoching</grapheme>
+    <alias>bao ching</alias>
+  </lexeme>
+ 
+ 
 </lexicon>
