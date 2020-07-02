@@ -251,5 +251,18 @@
     <grapheme>tu</grapheme>
     <alias>doo</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>TU
+    </grapheme>
+    <alias>doo</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hengyang</grapheme>
+    <alias>hong young</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yuehyang</grapheme>
+    <alias>You-eh young</alias>
+  </lexeme>
 
 </lexicon>
