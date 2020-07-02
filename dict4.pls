@@ -35,7 +35,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Huajung</grapheme>
-    <alias>say chuaan</alias>
+    <alias>hua rong</alias>
   </lexeme>
   <lexeme>
     <grapheme>Anhwei</grapheme>
