@@ -216,7 +216,7 @@
     <alias>hua rong</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Paoching</grapheme>
+    <grapheme>Fu Tao-nan</grapheme>
     <alias>fu dao naan</alias>
   </lexeme>
   <lexeme>
@@ -230,6 +230,26 @@
   <lexeme>
     <grapheme>Yen Jung-chiu</grapheme>
     <alias>yaan rong qiu</alias>
+  </lexeme>
+   <lexeme>
+    <grapheme>Hankow</grapheme>
+    <alias>han kou</alias>
+  </lexeme>
+<lexeme>
+    <grapheme>Tang Chun-yen</grapheme>
+    <alias>ton jun-yaan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lo Shu-lin</grapheme>
+    <alias>luo shoo lin</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yintien</grapheme>
+    <alias>yin tian</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>tu</grapheme>
+    <alias>doo</alias>
   </lexeme>
 
 </lexicon>
