@@ -213,7 +213,7 @@
   </lexeme>
    <lexeme>
     <grapheme>Paoching</grapheme>
-    <alias>hua rong</alias>
+    <alias>bao qing</alias>
   </lexeme>
   <lexeme>
     <grapheme>Fu Tao-nan</grapheme>
