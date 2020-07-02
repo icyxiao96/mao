@@ -34,6 +34,10 @@
     <alias>say chuaan</alias>
   </lexeme>
   <lexeme>
+    <grapheme>Huajung</grapheme>
+    <alias>say chuaan</alias>
+  </lexeme>
+  <lexeme>
     <grapheme>Anhwei</grapheme>
     <alias>aan hoy</alias>
   </lexeme>
@@ -209,8 +213,23 @@
   </lexeme>
    <lexeme>
     <grapheme>Paoching</grapheme>
-    <alias>bao ching</alias>
+    <alias>hua rong</alias>
   </lexeme>
- 
- 
+  <lexeme>
+    <grapheme>Paoching</grapheme>
+    <alias>fu dao naan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chou Chia-kan</grapheme>
+    <alias> zhou jia gan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sun Po-chu</grapheme>
+    <alias>sun bwo joo</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yen Jung-chiu</grapheme>
+    <alias>yaan rong qiu</alias>
+  </lexeme>
+
 </lexicon>
