@@ -282,11 +282,11 @@
   </lexeme>
   <lexeme>
     <grapheme>Hengyang</grapheme>
-    <alias>hung young</alias>
+    <alias>hung-young</alias>
   </lexeme>
   <lexeme>
     <grapheme>Yichang</grapheme>
-    <alias>yee chang</alias>
+    <alias>yee-chang</alias>
   </lexeme>
   <lexeme>
     <grapheme>Linwu</grapheme>
@@ -295,7 +295,7 @@
 
 <lexeme>
     <grapheme>Chiaho</grapheme>
-    <alias> Jia ho</alias>
+    <alias> Jia-ho</alias>
   </lexeme>
   <lexeme>
     <grapheme>Haifeng</grapheme>
