@@ -252,8 +252,7 @@
     <alias>doo</alias>
   </lexeme>
   <lexeme>
-    <grapheme>TU
-    </grapheme>
+    <grapheme>TU</grapheme>
     <alias>doo</alias>
   </lexeme>
   <lexeme>
@@ -261,8 +260,48 @@
     <alias>hong young</alias>
   </lexeme>
   <lexeme>
+    <grapheme>Machiaho</grapheme>
+    <alias>Maa jia hoe</alias>
+  </lexeme>
+   <lexeme>
     <grapheme>Yuehyang</grapheme>
-    <alias>You-eh young</alias>
+    <alias>you-eh young</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Liu Chao</grapheme>
+    <alias>Liu zhao</alias>
   </lexeme>
 
+<lexeme>
+    <grapheme>Tang Chunyen </grapheme>
+    <alias>ton jun-yaan</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>mou</grapheme>
+    <alias>moo</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hengyang</grapheme>
+    <alias>hung young</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yichang</grapheme>
+    <alias>yee chang</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Linwu</grapheme>
+    <alias>  lin-woo</alias>
+  </lexeme>
+
+<lexeme>
+    <grapheme>Chiaho</grapheme>
+    <alias> Jia ho</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Haifeng</grapheme>
+    <alias>hai-phong</alias>
+  </lexeme>
+  
+
+  
 </lexicon>
