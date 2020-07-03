@@ -261,7 +261,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Machiaho</grapheme>
-    <alias>Maa jia hoe</alias>
+    <alias>Maa-jia-hoe</alias>
   </lexeme>
    <lexeme>
     <grapheme>Yuehyang</grapheme>
@@ -269,11 +269,11 @@
   </lexeme>
   <lexeme>
     <grapheme>Liu Chao</grapheme>
-    <alias>Liu zhao</alias>
+    <alias>Liu-zhao</alias>
   </lexeme>
 
 <lexeme>
-    <grapheme>Tang Chunyen </grapheme>
+    <grapheme>Tang Chunyen</grapheme>
     <alias>ton jun-yaan</alias>
   </lexeme>
   <lexeme>
