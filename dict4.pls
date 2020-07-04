@@ -488,4 +488,8 @@
     <grapheme>Sheh</grapheme>
     <alias>yeah</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Hudi</grapheme>
+    <alias>hoo-di</alias>
+  </lexeme>
 </lexicon>
