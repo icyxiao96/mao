@@ -480,7 +480,7 @@
 
   <lexeme>
     <grapheme>Liu Yueh-chih</grapheme>
-    <alias>Liu You-eh zher</alias>
+    <alias>Liu Yo-eh zher</alias>
   </lexeme>
  
 
