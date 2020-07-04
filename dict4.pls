@@ -304,9 +304,188 @@
     <alias>hai-phong</alias>
   </lexeme>
   
-<lexeme>
+  <lexeme>
     <grapheme>Paikno</grapheme>
-    <alias>bai guo</alias>
+    <alias>bai gwo</alias>
   </lexeme>
-  
+ 
+
+  <lexeme>
+    <grapheme>Fupoling</grapheme>
+    <alias>Foo pwo-ling</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lukou</grapheme>
+    <alias>Lukou</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Sun Hsiao-shan</grapheme>
+    <alias>sooen Hsiao-shan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lungfeng</grapheme>
+    <alias>Longfeng</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tungfu</grapheme>
+    <alias>dong-foo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Pao</grapheme>
+    <alias>bao</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yanghsin</grapheme>
+    <alias>young seen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Kuan</grapheme>
+    <alias>guan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tang Sheng-chih</grapheme>
+    <alias>ton-shung-zher</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yeh Kai-hsin</grapheme>
+    <alias>Yeah Kai-seen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Dr. Sun Yat-sen</grapheme>
+    <alias>Dr. Soo-en Yat-sen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>mahjong</grapheme>
+    <alias>ma-jiang</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Sun Chuan-fang</grapheme>
+    <alias>Soo-en Chuaan-fang</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yangtang</grapheme>
+    <alias>young toung</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Futienpu</grapheme>
+    <alias>Foo tian poo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Shaoshan</grapheme>
+    <alias>Shao shaan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chiamo</grapheme>
+    <alias>jia-muo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chuchow</grapheme>
+    <alias>zhu joe</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Kushui</grapheme>
+    <alias>goo shwey</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yu</grapheme>
+    <alias>Yoo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tang</grapheme>
+    <alias>toung</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Wen</grapheme>
+    <alias>Wen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Wu</grapheme>
+    <alias>Woo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Ching</grapheme>
+    <alias>Ching</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yangtze</grapheme>
+    <alias>Young-zuh</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>tou</grapheme>
+    <alias>dou</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Nanchang</grapheme>
+    <alias>Naan chang</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chang Ching-chiang</grapheme>
+    <alias>zhang jing-jiang</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Liu Yueh-chih</grapheme>
+    <alias>Liu You-eh zher</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Sheh</grapheme>
+    <alias>yeah</alias>
+  </lexeme>
 </lexicon>
