@@ -503,7 +503,7 @@
 
   <lexeme>
     <grapheme>Tientsin</grapheme>
-    <alias>Tea-an zeen</alias>
+    <alias>Tian-zeen</alias>
   </lexeme>
  
 
@@ -527,7 +527,7 @@
 
   <lexeme>
     <grapheme>Chen Kung-po</grapheme>
-    <alias>chen gong-bwo</alias>
+    <alias>chen gohng-bwo</alias>
   </lexeme>
  
 
