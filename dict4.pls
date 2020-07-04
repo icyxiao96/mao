@@ -489,7 +489,7 @@
     <alias>yeah</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Hudi</grapheme>
+    <grapheme>Huti</grapheme>
     <alias>hoo-di</alias>
   </lexeme>
 </lexicon>
