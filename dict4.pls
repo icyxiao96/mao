@@ -139,6 +139,8 @@
     <grapheme>Pingkiang</grapheme>
     <alias>ping jiang</alias>
   </lexeme>
+  
+  
   <lexeme>
     <grapheme>Hsiangyin</grapheme>
     <alias>see-ong yin</alias>
@@ -302,6 +304,9 @@
     <alias>hai-phong</alias>
   </lexeme>
   
-
+<lexeme>
+    <grapheme>Paikno</grapheme>
+    <alias>bai guo</alias>
+  </lexeme>
   
 </lexicon>
