@@ -30,10 +30,6 @@
     <alias>ho naan</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Szechuan</grapheme>
-    <alias>say chuaan</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>Huajung</grapheme>
     <alias>hua rong</alias>
   </lexeme>
@@ -492,4 +488,161 @@
     <grapheme>Huti</grapheme>
     <alias>hoo-di</alias>
   </lexeme>
+  
+    <lexeme>
+    <grapheme>Chang Tso-lin</grapheme>
+    <alias>zhang zuo-lin</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Feng Yu-hsiang</grapheme>
+    <alias>Feng Yu-see-ong</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tientsin</grapheme>
+    <alias>Tea-an zeen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Kwangsi</grapheme>
+    <alias>gwaangsee</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chiang</grapheme>
+    <alias>jiang</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Wang Ching-wei</grapheme>
+    <alias>Waang jing-wei</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chen Kung-po</grapheme>
+    <alias>chen gong-bwo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tsinan</grapheme>
+    <alias>jee naan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Kweichow</grapheme>
+    <alias>gwei-joe</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yunnan</grapheme>
+    <alias>yoon naan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Haifeng</grapheme>
+    <alias>Hai-phone</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lufeng</grapheme>
+    <alias>loo-phone</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Huangan</grapheme>
+    <alias>Huang-aan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yen Hsi-shan</grapheme>
+    <alias>Yen see-shaan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>HUNAN</grapheme>
+    <alias>hunan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>KIANGSI</grapheme>
+    <alias>jiang-see</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Hunan-Kiangsi</grapheme>
+    <alias>hunan jiang-see</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lohsiao</grapheme>
+    <alias>luo see-al</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yunghsin</grapheme>
+    <alias>yong seen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tu Hsiu-ching</grapheme>
+    <alias>doo see-oh jing</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Ningkang</grapheme>
+    <alias>ning gong</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chiulung</grapheme>
+    <alias>jiu lone</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Linghsien</grapheme>
+    <alias>ling see-an</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Suichuan</grapheme>
+    <alias>swei chuan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chaling</grapheme>
+    <alias>chah ling</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lienhua</grapheme>
+    <alias>lee-ain hua</alias>
+  </lexeme>
+ 
+
 </lexicon>
