@@ -11,7 +11,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
-    <alias>mao zaa dohn</alias>
+    <alias>mao zuh dohn</alias>
   </lexeme>
   <lexeme>
     <grapheme>Shantung</grapheme>
