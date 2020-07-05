@@ -11,11 +11,11 @@
   </lexeme>
   <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
-    <alias>mao zaa dong</alias>
+    <alias>mao zaa dohn</alias>
   </lexeme>
   <lexeme>
     <grapheme>Shantung</grapheme>
-    <alias>shaan dong</alias>
+    <alias>shaan dohn</alias>
   </lexeme>
   <lexeme>
     <grapheme>Hunan</grapheme>
