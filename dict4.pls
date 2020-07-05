@@ -27,7 +27,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Honan</grapheme>
-    <alias>ho naan</alias>
+    <alias>huh naan</alias>
   </lexeme>
   <lexeme>
     <grapheme>Huajung</grapheme>
