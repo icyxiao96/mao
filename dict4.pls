@@ -931,12 +931,58 @@
     <alias>joo Pei duh</alias>
   </lexeme>
  
+  <lexeme>
+    <grapheme>Chu Teh</grapheme>
+    <alias>joo-duh</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Changshu</grapheme>
+    <alias>john shoo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Wang Chun</grapheme>
+    <alias>Wang juns</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Fan Shih-sheng</grapheme>
+    <alias>Faan sher-shung</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Shangyu</grapheme>
+    <alias>shawn-yo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Shuikoushan</grapheme>
+    <alias>shwei-kou-shaan</alias>
+  </lexeme>
+ 
 
   <lexeme>
     <grapheme>Anyuan</grapheme>
-    <alias>aan-yuan</alias>
+    <alias>aann yuan</alias>
   </lexeme>
  
+
+  <lexeme>
+    <grapheme>Wanan</grapheme>
+    <alias>waan aan</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yang Chih-sheng</grapheme>
+    <alias>young Cher-shung</alias>
+  </lexeme>
 
   <lexeme>
     <grapheme>Yeh Ting's</grapheme>
