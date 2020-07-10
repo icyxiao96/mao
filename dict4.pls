@@ -690,7 +690,7 @@
 
   <lexeme>
     <grapheme>Ho Ting-ying</grapheme>
-    <alias>Huh Ting-ying</alias>
+    <alias>Huh Ting'ying</alias>
   </lexeme>
  
 
