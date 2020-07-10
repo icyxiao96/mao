@@ -163,7 +163,7 @@
   </lexeme>
    <lexeme>
     <grapheme>Kiangsi</grapheme>
-    <alias>jiang see</alias>
+    <alias>jiang-see</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kwangtung</grapheme>
