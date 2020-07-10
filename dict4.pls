@@ -10,6 +10,10 @@
     <alias> By the way </alias>
   </lexeme>
   <lexeme>
+    <grapheme>Mao Tse-tung's</grapheme>
+    <alias>mao zuh dohns</alias>
+  </lexeme>
+  <lexeme>
     <grapheme>Mao Tse-tung</grapheme>
     <alias>mao zuh dohn</alias>
   </lexeme>
@@ -667,6 +671,10 @@
     <alias>Li zee-shen</alias>
   </lexeme>
  
+  <lexeme>
+    <grapheme>Wang Tso's</grapheme>
+    <alias>Wang zwos</alias>
+  </lexeme>
 
   <lexeme>
     <grapheme>Wang Tso</grapheme>
@@ -714,14 +722,25 @@
     <grapheme>Wu Shang</grapheme>
     <alias>woo shawn</alias>
   </lexeme>
- 
+ <lexeme>
+    <grapheme>Hsiung Shih-hui's</grapheme>
+    <alias>see-own Shi-hweis</alias>
+  </lexeme>
+  
+  <lexeme>
+    <grapheme>Chou's</grapheme>
+    <alias>joes</alias>
+  </lexeme>
 
   <lexeme>
     <grapheme>Hsiung Shih-hui</grapheme>
     <alias>see-own Shi-hwei</alias>
   </lexeme>
  
-
+  <lexeme>
+    <grapheme>Wang Chun</grapheme>
+    <alias>Wang juns</alias>
+  </lexeme>
   <lexeme>
     <grapheme>Wang Chun</grapheme>
     <alias>Wang jun</alias>
@@ -792,7 +811,11 @@
     <grapheme>Lochang</grapheme>
     <alias>Lo chang</alias>
   </lexeme>
- 
+  
+  <lexeme>
+    <grapheme>Hu Feng-chang's</grapheme>
+    <alias>Hu Feng johns</alias>
+  </lexeme>
 
   <lexeme>
     <grapheme>Hu Feng-chang</grapheme>
@@ -888,6 +911,10 @@
     <grapheme>Pi Chan-yun</grapheme>
     <alias>bee jaan yun</alias>
   </lexeme>
+   <lexeme>
+    <grapheme>Yeh Ting's</grapheme>
+    <alias>yeah ttings</alias>
+  </lexeme>
  
 
   <lexeme>
@@ -977,23 +1004,18 @@
     <grapheme>Wanan</grapheme>
     <alias>waan aan</alias>
   </lexeme>
- 
+   <lexeme>
+    <grapheme>Yang Chih-sheng's</grapheme>
+    <alias>young Cher-shungs</alias>
+  </lexeme>
 
   <lexeme>
     <grapheme>Yang Chih-sheng</grapheme>
     <alias>young Cher-shung</alias>
   </lexeme>
 
-  <lexeme>
-    <grapheme>Yeh Ting's</grapheme>
-    <alias>yeah ttings</alias>
-  </lexeme>
- 
 
-  <lexeme>
-    <grapheme>Wang Tso's</grapheme>
-    <alias>Wang zwos</alias>
-  </lexeme>
+
  
 
   <lexeme>
