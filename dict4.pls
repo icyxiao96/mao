@@ -637,13 +637,13 @@
 
   <lexeme>
     <grapheme>Suichuan</grapheme>
-    <alias>swei chuan</alias>
+    <alias>swei-huan</alias>
   </lexeme>
  
 
   <lexeme>
     <grapheme>Chaling</grapheme>
-    <alias>chah ling</alias>
+    <alias>chah-ling</alias>
   </lexeme>
  
 
