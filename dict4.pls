@@ -43,7 +43,7 @@
   </lexeme>
     <lexeme>
     <grapheme>Kuomintang's</grapheme>
-    <alias>guo min dones</alias>
+    <alias>guo min done's</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
