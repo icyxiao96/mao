@@ -43,11 +43,11 @@
   </lexeme>
     <lexeme>
     <grapheme>Kuomintang's</grapheme>
-    <alias>guo min done's</alias>
+    <alias>guo-min-done's</alias>
   </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
-    <alias>guo min done</alias>
+    <alias>guo-min-done</alias>
   </lexeme>
   <lexeme>
     <grapheme>Chao</grapheme>
@@ -1323,6 +1323,11 @@
   <lexeme>
     <grapheme>Peihsiang</grapheme>
     <alias>bei-see-on</alias>
+  </lexeme>
+  
+   <lexeme>
+    <grapheme>Fukien</grapheme>
+    <alias>foo-jian</alias>
   </lexeme>
   
 </lexicon>
