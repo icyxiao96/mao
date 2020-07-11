@@ -601,7 +601,7 @@
 
   <lexeme>
     <grapheme>Lohsiao</grapheme>
-    <alias>luo see-al</alias>
+    <alias>luo-see-al</alias>
   </lexeme>
  
 
