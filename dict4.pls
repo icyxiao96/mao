@@ -742,7 +742,7 @@
   </lexeme>
  
   <lexeme>
-    <grapheme>Wang Chun</grapheme>
+    <grapheme>Wang Chun's</grapheme>
     <alias>Wang juns</alias>
   </lexeme>
   <lexeme>
