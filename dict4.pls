@@ -1314,4 +1314,15 @@
     <alias>joos</alias>
   </lexeme>
   
+    <lexeme>
+    <grapheme>Hsiaokiang</grapheme>
+    <alias>see-al zee-on</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Peihsiang</grapheme>
+    <alias>bei-see-on</alias>
+  </lexeme>
+  
 </lexicon>
