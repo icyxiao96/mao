@@ -1203,7 +1203,7 @@
 
   <lexeme>
     <grapheme>Lung Chao-ching</grapheme>
-    <alias>Lone Chao-tsing</alias>
+    <alias>Lone Chal-tsing</alias>
   </lexeme>
  
 
@@ -1245,7 +1245,7 @@
 
   <lexeme>
     <grapheme>Chu Yi-yueh</grapheme>
-    <alias>joo-yeeg-yo-eh</alias>
+    <alias>joo-yee yyo-eh</alias>
   </lexeme>
  
 
