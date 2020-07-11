@@ -637,7 +637,7 @@
 
   <lexeme>
     <grapheme>Suichuan</grapheme>
-    <alias>swei-huan</alias>
+    <alias>swei-chuan</alias>
   </lexeme>
  
 
