@@ -41,6 +41,10 @@
     <grapheme>Anhwei</grapheme>
     <alias>aan hoy</alias>
   </lexeme>
+    <lexeme>
+    <grapheme>Kuomintang's</grapheme>
+    <alias>guo min dones</alias>
+  </lexeme>
   <lexeme>
     <grapheme>Kuomintang</grapheme>
     <alias>guo min done</alias>
