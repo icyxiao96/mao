@@ -207,7 +207,7 @@
   </lexeme>
    <lexeme>
     <grapheme>Chengpu</grapheme>
-    <alias>Chong poo</alias>
+    <alias>Chung poo</alias>
   </lexeme>
   <lexeme>
     <grapheme>Yuhsien</grapheme>
@@ -259,7 +259,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Hengyang</grapheme>
-    <alias>hong young</alias>
+    <alias>hung young</alias>
   </lexeme>
   <lexeme>
     <grapheme>Machiaho</grapheme>
@@ -301,7 +301,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Haifeng</grapheme>
-    <alias>hai-phong</alias>
+    <alias>hai-phung</alias>
   </lexeme>
   
   <lexeme>
@@ -1068,7 +1068,7 @@
 
   <lexeme>
     <grapheme>Hsincheng</grapheme>
-    <alias>seen chong</alias>
+    <alias>seen chung</alias>
   </lexeme>
  
 
