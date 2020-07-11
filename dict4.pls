@@ -1141,4 +1141,177 @@
     <alias>Li Wen-bin</alias>
   </lexeme>
 
+  <lexeme>
+    <grapheme>Kucheng</grapheme>
+    <alias>goo-chung</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lungshih</grapheme>
+    <alias>lone-sher</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Anjen</grapheme>
+    <alias>aan ren</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Anfu</grapheme>
+    <alias>aan foo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Shatien</grapheme>
+    <alias>shaa tian</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Shiherhtung</grapheme>
+    <alias>sher' erh dohn</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lunghsi</grapheme>
+    <alias>lone see</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Maoping</grapheme>
+    <alias>Mao-ping</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tan Chen-lin</grapheme>
+    <alias>Taan Chen-lin</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yang</grapheme>
+    <alias>young</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lung Chao-ching</grapheme>
+    <alias>Lone Chao-tsing</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chu Chang-chieh</grapheme>
+    <alias>joo Chang jie</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Liu Tien-chien</grapheme>
+    <alias>Liu Tian-tsee-an</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Pan Yuan-chu</grapheme>
+    <alias>paan you-aan-joo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tan Szu-tsung</grapheme>
+    <alias>Tan Szu-tsone</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tan Ping</grapheme>
+    <alias>Taan bing</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Li Chueh-fei</grapheme>
+    <alias>Li chu-eh fei</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chu Yi-yueh</grapheme>
+    <alias>joo-yeeg-yo-eh</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Wang Tso-nung</grapheme>
+    <alias>Wang zwo-nong</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chen Cheng-jen</grapheme>
+    <alias>Chen jjung-ren</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tan Chen-lin</grapheme>
+    <alias>taan jjun-lin</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Sung Chiao-sheng</grapheme>
+    <alias>sone siaao-shung</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Mao Ko-wen</grapheme>
+    <alias>Mao Kuh-wen</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tsaolin</grapheme>
+    <alias>Tsaao-lin</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Huangao</grapheme>
+    <alias>huaang-al</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Tungku</grapheme>
+    <alias>tone-goo</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Yuan Teh-sheng</grapheme>
+    <alias>Yuan duh-shung</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Lu Ti-ping</grapheme>
+    <alias>Loo dee-ping</alias>
+  </lexeme>
+ 
+
+  <lexeme>
+    <grapheme>Chu's</grapheme>
+    <alias>joos</alias>
+  </lexeme>
+  
 </lexicon>
